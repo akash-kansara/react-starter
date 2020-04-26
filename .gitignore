@@ -1,0 +1,22 @@
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build folder
+/dist
+
+# Dependency directories
+node_modules/
+
+# Coverage directory
+/coverage
+
+# Optional eslint cache
+.eslintcache
+
+# Analysis files
+webpack-stats.json
+
+# Unnecessary files, folders
+z/
